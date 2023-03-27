@@ -336,6 +336,10 @@ footer .container .part-one li a{
     text-decoration: none;
     color: white;    
 }
+footer .container .part-one li a i{
+     margin-right: 15px;   
+}
+
 .finally{
     flex-grow: 2;
 }
